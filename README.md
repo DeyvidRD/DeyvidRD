@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📖 Aperfeiçoando linguagens de programação.</p>
+<p align="left">📖 </p>
 
 ###
 
