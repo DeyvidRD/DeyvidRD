@@ -3,7 +3,7 @@
 ###
 
 <p align="left">ETEC Pedro Ferreiro Alves | Técnico de Desenvolvedor de Sistemas <br><br>
-  Fatec Arthur Azevedo <br> Análise e Desenvolvimento de Sistemas </p>
+  Fatec Arthur Azevedo | Análise e Desenvolvimento de Sistemas </p>
 
 ###
 
