@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📖 </p>
+<p align="left">📖 Neste momento, busco uma oportunidade como Desenvolvedor Júnior que me permita adquirir experiência profissional, aprender com profissionais e contribuir com projetos da empresa enquanto continuo evoluindo como desenvolvedor.</p>
 
 ###
 
