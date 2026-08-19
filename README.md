@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">ETEC Pedro Ferreiro Alves<br>Técnico de Desenvolvedor de Sistemas <br><br>Ângela Maria da Paixão Costa<br>Ensino Médio | Administração</p>
+<p align="left">ETEC Pedro Ferreiro Alves<br>Técnico de Desenvolvedor de Sistemas <br><br>Ângela Maria da Paixão Costa<br>Ensino Médio | Técnico em Administração <br><br>Fatec Arthur Azevedo </p>
 
 ###
 
